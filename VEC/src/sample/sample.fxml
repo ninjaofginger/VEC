@@ -17,7 +17,7 @@
                   <Button fx:id="brush" mnemonicParsing="false" onAction="#toolSelected" text="Brush" />
                   <ColorPicker fx:id="colourPicker" />
                   <TextField fx:id="bSize" />
-                  <Button fx:id="line" mnemonicParsing="false" onAction="#lineAction" text="Line" />
+                  <Button fx:id="lineAction" mnemonicParsing="false" text="Line" />
                </children>
             </HBox>
          </children>
